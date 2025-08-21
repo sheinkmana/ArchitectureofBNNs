@@ -1,6 +1,6 @@
 # Bayesian Neural Networks (BNNs) Examples
 
-The demo of the code supplementing [The Architecture and Evaluation of Bayesian Neural Networks](https://arxiv.org/abs/2503.11808) paper for which we implement and train Bayesian Neural Networks using JAX, NumPyro, and Flax.
+The demo of the code supplementing [Understanding the Trade-offs in Accuracy and Uncertainty Quantification: Architecture and Inference Choices in Bayesian Neural Networks](https://arxiv.org/abs/2503.11808) paper for which we implement and train Bayesian Neural Networks using JAX, NumPyro, and Flax.
 
 
 The `BNNs_examples.ipynb` notebook demonstrates how to implement and train Bayesian Neural Networks using two different inference methods:
